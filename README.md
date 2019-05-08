@@ -1,6 +1,6 @@
 Simple python script intended to download video files from polsatsport.pl website. 
 
-Usage : polsport-downloader.py <textfile>
+Usage : polsport-downloader.py textfile.txt
  
 Textfile should be formatted in such way that every new url is in new line.
 
